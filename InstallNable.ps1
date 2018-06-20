@@ -1,4 +1,4 @@
-Function Install-Nable {
+Function Install-NableAgent {
     [CmdletBinding()]
     Param(
         [Parameter(Mandatory=$True,Position=1)]
